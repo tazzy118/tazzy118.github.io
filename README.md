@@ -8,7 +8,7 @@ These are my programming projects I have done over the years.
 
   - [Virality](https://github.com/tazzy118/Virality)
   - [Bank ATM](https://github.com/tazzy118/Bank-ATM)
-  - [Cantor collage](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Cantor collage](https://github.com/tazzy118/Cantor-Collage)
 
   <h3>2st year:</h3>
   
