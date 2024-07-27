@@ -18,7 +18,8 @@ These are my programming projects I have done over the years.
 
 <h2>🌱 Side projects/Practise:</h2>
 
-  - [Bug creator](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Bug creator](https://github.com/tazzy118/Tab-bug)
+  - [Calculator](https://github.com/tazzy118/Tab-bug)
 
 <h2>🤳 Connect with me:</h2>
 
