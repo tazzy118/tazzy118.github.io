@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Virality](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Virality](https://github.com/tazzy118/Virality)
   - [Bank ATM](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>🌱 Side projects/Practise:</h2>
