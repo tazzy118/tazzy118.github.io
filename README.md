@@ -7,7 +7,7 @@ These are my programming projects I have done over the years.
 <h3>1st year:</h3>
 
   - [Virality](https://github.com/tazzy118/Virality)
-  - [Bank ATM](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Bank ATM](https://github.com/tazzy118/Bank-ATM)
   - [Cantor collage](https://github.com/joshmadakor1/Algorithms-Practice)
 
   <h3>2st year:</h3>
