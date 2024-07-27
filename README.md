@@ -20,7 +20,7 @@ These are my programming projects I have done over the years.
 
   - [Bug creator](https://github.com/tazzy118/Tab-bug)
   - [UK Car Reg](https://github.com/tazzy118/Tab-bug)
-  - [Calculator](https://github.com/tazzy118/Tab-bug)
+  - [Calculator](https://github.com/tazzy118/Calculator)
 
 <h2>🤳 Connect with me:</h2>
 
