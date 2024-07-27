@@ -13,7 +13,7 @@ These are my programming projects I have done over the years.
   <h3>2st year:</h3>
   
   - [Contact List](https://github.com/tazzy118/Contact-List)
-  - [AI Tic-Tac-Toe](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [AI Tic-Tac-Toe](https://github.com/tazzy118/AI-TicTacToe)
   - [AI Troubleshooting Chatbot](https://github.com/AlexDobson164/XLN-Group-B)
 
 <h2>🌱 Side projects/Practise:</h2>
