@@ -1,25 +1,33 @@
 <h1>Hi, I'm Tasnim!</h1>
 
+These are my programming projects I have done over the years. 
+
 <h2>👨‍💻 Software Development Projects:</h2>
+
+<h3>1st year:</h3>
 
   - [Virality](https://github.com/tazzy118/Virality)
   - [Bank ATM](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Cantor collage](https://github.com/joshmadakor1/Algorithms-Practice)
+
+  <h3>2st year:</h3>
+  
+  - [Contact List](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Tic-Tac-Toe](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [AI Troubleshooting Chatbot](https://github.com/AlexDobson164/XLN-Group-B)
 
 <h2>🌱 Side projects/Practise:</h2>
 
   - [Bug creator](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[instagram]: https://www.instagram.com/tazzyk118/
+[linkedin]: https://www.linkedin.com/in/tasnim-b-907786302/
 
 <!--
 
