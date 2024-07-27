@@ -22,6 +22,7 @@ These are my programming projects I have done over the years.
   - [UK Car Reg](https://github.com/tazzy118/Car-Reg)
   - [Calculator](https://github.com/tazzy118/Calculator)
   - [Morse-Code](https://github.com/tazzy118/morse-code)
+  - [Small Projects](https://github.com/tazzy118/Small-Projects)
 
 <h2>🤳 Connect with me:</h2>
 
