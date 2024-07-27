@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tasnim!</h1>
 
-Hi! I'm Tasnim, a Software Engineering student at Sheffield Hallam University. I'm determined, bubbly, and always eager to learn new programming languages and technologies. Here, you'll find a selection of my projects showcasing my skills and passion for coding. Thanks for visiting, and I hope you enjoy exploring my work!😆
+I'm a Software Engineering student at Sheffield Hallam University. I'm determined, bubbly, and always eager to learn new programming languages and technologies. Here, you'll find a selection of my projects showcasing my skills and passion for coding. Thanks for visiting, and I hope you enjoy exploring my work!😆
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
