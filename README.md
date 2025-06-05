@@ -7,7 +7,7 @@ I'm a Software Engineering Graduate at Sheffield Hallam University. I'm determin
 <h3>3rd year:</h3>
 
   - [Skincare Application (Dissertaion)](https://github.com/tazzy118/AI-skincare-app)
-  - [Machine Learning & Heuristics](https://github.com/tazzy118/Bank-ATM)
+  - [Machine Learning & Heuristics](https://github.com/tazzy118/Machine-learning-and-heuristics)
   - [AML Library](https://github.com/Jamesss9240/AML-media)
 
   <h3>2st year:</h3>
